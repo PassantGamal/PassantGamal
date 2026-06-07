@@ -102,7 +102,7 @@ Full-Stack .NET Developer passionate about building scalable, secure, and mainta
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
       </p>
-      <a href="https://github.com/PassantGamal">View Repo →</a>
+      <a href="https://github.com/PassantGamal/GymManagementSystem">View Repo →</a>
     </td>
     <td width="50%" valign="top">
       <h3>📝 Online Examination System</h3>
