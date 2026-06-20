@@ -13,7 +13,7 @@ Full-Stack .NET Developer passionate about building scalable, secure, and mainta
 
 - 🎓 BSc in Mathematics and Computer Science — Menofia University
 - 📜 Full-Stack Development Diploma — Route Academy
-- 🌱 Currently completing a 9-month intensive training at **ITI** — Professional Development & BI-Infused CRM Track
+- 🌱 Currently completing a 9-month professional training at **ITI** — Professional Development & BI-Infused CRM Track
 - 💡 Passionate about Clean Architecture, RESTful APIs, and delivering great user experiences
 - 🤝 Strong team player with experience in collaborative and deadline-driven environments
 
